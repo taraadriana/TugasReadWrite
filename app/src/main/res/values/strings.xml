@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">My BMI</string>
+    <string name="newFile">New Note</string>
+    <string name="openFile">Open</string>
+    <string name="saveFile">Save</string>
+    <string name="title">Note Title</string>
+</resources>
+
+
+
